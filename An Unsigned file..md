@@ -1,1 +1,9 @@
+---
+red_tags: ["Wotang"]
+red_author: 2a2794ef417b504b38540c70ad315019a45543ea9e2bae76dde76e226840645d
+red_author_name: Alice Example
+red_signed_at: 1780883850
+red_hash: 4d106439cd4b395b7da7b73ad5a856fe2749470b2448d5deaaf158b46ebfc7fd
+red_sig: 6bad04a68900def2e4198e89cdc606677b8e2c69b05320f15b6b80d4ba71838ff0d29e7e2e35bdd5c4e4cfd93a35a520be476b2a30f00dc17ff31a2c1543070b
+---
 This file is Unsigned on purpose.

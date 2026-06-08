@@ -1,7 +1,9 @@
 ---
+red_tags: ["Wotang"]
 red_author: 2a2794ef417b504b38540c70ad315019a45543ea9e2bae76dde76e226840645d
-red_signed_at: 1780551030
-red_type: library
-red_taxonomy_uid: c4211
+red_author_name: Alice Example
+red_signed_at: 1780883843
+red_hash: c239ea24ea8ed736b77054e72f2196085b4a48d63ecbb1a39b9aa05e2a24860f
+red_sig: 02719af5c321f530922d9afc4dace2283206693522325dd01a1c6c7f1b9ad193daf42eff630115995a4dab9a7ceb89f769d5a20a991f36471c1ed1dd23e78a0c
 ---
 This is a signed file. Also the beginning of the branch

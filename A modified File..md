@@ -1,10 +1,10 @@
 ---
-red_tags:
-  - Wotang
+red_tags: ["Wotang"]
 red_author: 2a2794ef417b504b38540c70ad315019a45543ea9e2bae76dde76e226840645d
-red_author_name: Standard Catalog
-red_signed_at: 1780883819
-red_hash: 124263bc45a94adf73d3afa3d37fd80e61b2bfa1fe0361fd5844134e9d2179fb
-red_sig: d0c24ff359d70a2be30c595f573db0d66e8f0008d42c1c73a4890bb3f3f9624497fa7c90df0fddc22b4f1667d497eb66db0b53f043716b2b6668a01487392d01
+red_author_name: Alice Example
+red_signed_at: 1780884654
+red_hash: 441eee6a66704cce5519379a5212ad5332c1213d86d341d70a31890747225dc6
+red_sig: 2c68ca29b8631c3d4c711d1f32e54e6bf7bf775555e2c5eea8a298557bd40d48840031638e5cb2e7ab1612a986dba884e85cc65412dc94c66018cbc872290c09
 ---
-This file is modified
+
+This file is not modified yet.

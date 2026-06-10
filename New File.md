@@ -1,0 +1,9 @@
+---
+red_tags: ["Wotang"]
+red_author: 2a2794ef417b504b38540c70ad315019a45543ea9e2bae76dde76e226840645d
+red_author_name: Standard Codebase
+red_signed_at: Wed, 10 Jun 2026 17:15:44 +03
+red_hash: a591a6d40bf420404a011733cfb7b190d62c65bf0bcda32b57b277d9ad9f146e
+red_sig: 37b76c5a4b0e2c723dfc534e7bad992601659a2167e5e5b364e9df85b479426610fa0df3c486282c2fbd7659d01a3ea6cfc2a988cce70ca146d6436734b4ef0a
+---
+Hello World
